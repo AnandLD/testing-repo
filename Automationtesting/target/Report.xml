@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="9.625" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validate the login page of salesforce application" name="count the links" time="9.432">
+<system-out><![CDATA[
+Given User navigates to the application.....................................passed
+When User counts the links..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
